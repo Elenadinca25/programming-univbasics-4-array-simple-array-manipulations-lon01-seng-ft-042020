@@ -30,7 +30,7 @@ end
 
 
 def using_concat(array)
-array.concat("")
+concat("")
 end
 
 
