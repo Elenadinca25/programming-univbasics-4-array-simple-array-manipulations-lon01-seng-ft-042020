@@ -36,8 +36,8 @@ end
 
 
 def using_insert(array, element)
-  element = ""
-  array.insert("")
+  element = "hi"
+  array.insert("hi")
 end
 
 
