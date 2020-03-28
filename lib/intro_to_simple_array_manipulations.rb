@@ -29,8 +29,8 @@ end
 
 
 
-def using_concat(array)
-@all_my_favs = ["raindrops on roses", "whiskers on kittens"].concat( ["sports cars", "flatiron school"] ) 
+def using_concat(array1, array2)
+  array1.concat(array2)
 end
 
 
