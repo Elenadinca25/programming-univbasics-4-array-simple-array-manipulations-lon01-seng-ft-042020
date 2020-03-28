@@ -30,13 +30,12 @@ end
 
 
 def using_concat(array)
-
+@my_favorite_things.concat( ["sports cars", "flatiron school"] ) 
 end
 
 
 
 def using_insert(index, object)
-array.insert(index, object)
 end
 
 
