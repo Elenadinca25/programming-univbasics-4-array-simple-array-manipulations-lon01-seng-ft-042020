@@ -35,8 +35,8 @@ end
 
 
 
-def using_insert(array)
-  array.insert("Python")
+def using_insert(array, "Python")
+  array[4].insert("Python")
 end
 
 
