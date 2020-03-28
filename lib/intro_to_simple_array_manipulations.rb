@@ -36,7 +36,7 @@ end
 
 
 def using_insert(array, "string")
-  
+
   array.insert("string")
 end
 
