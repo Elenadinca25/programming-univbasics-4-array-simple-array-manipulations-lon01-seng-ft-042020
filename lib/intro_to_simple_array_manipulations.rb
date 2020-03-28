@@ -30,13 +30,13 @@ end
 
 
 def using_concat(array)
-concat("")
+
 end
 
 
 
-def using_insert(array, element)
-
+def using_insert(index, object)
+array.insert(index, object)
 end
 
 
