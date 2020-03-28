@@ -30,7 +30,7 @@ end
 
 
 def using_concat(array)
-@my_favorite_things.concat( ["sports cars", "flatiron school"] ) 
+@all_my_favs = ["raindrops on roses", "whiskers on kittens"].concat( ["sports cars", "flatiron school"] ) 
 end
 
 
