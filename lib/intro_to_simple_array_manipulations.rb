@@ -30,8 +30,7 @@ end
 
 
 def using_concat(array)
-
-@all_my_favs + @my_favorite_things + more_favs
+array.concat("")
 end
 
 
