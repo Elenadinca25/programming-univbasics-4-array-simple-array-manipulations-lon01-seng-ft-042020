@@ -30,8 +30,8 @@ end
 
 
 def using_concat(array)
-array.concat
-array.leght
+
+@my_favorite_things + more_favs
 end
 
 
