@@ -35,9 +35,8 @@ end
 
 
 
-def using_insert(array)
-  new_element = "Python"
-  array.insert("Python")
+def using_insert(array,  new_array)
+  array.insert(new_array)
 end
 
 
@@ -57,7 +56,7 @@ def using_delete(array, string)
 end
 
 
-def using_delete_at(array, integer)
+def using_delete_at(array)
   integer = index
   array.delete(integer)
 end
