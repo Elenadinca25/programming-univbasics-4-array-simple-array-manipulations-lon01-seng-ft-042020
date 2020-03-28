@@ -35,8 +35,8 @@ end
 
 
 
-def using_insert(array, new_element)
-  array.insert(new_element)
+def using_insert(array, @new_array)
+  array.insert(@new_array)
 end
 
 
