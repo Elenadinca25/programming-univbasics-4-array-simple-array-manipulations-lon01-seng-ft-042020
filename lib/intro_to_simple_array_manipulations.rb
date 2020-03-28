@@ -35,7 +35,7 @@ end
 
 
 
-def using_insert(array, @new_array)
+def using_insert(array)
   array.insert(@new_array)
 end
 
