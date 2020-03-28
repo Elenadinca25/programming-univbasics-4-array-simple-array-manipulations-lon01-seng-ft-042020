@@ -36,8 +36,7 @@ end
 
 
 def using_insert(array, new_element)
-  new_element = "Python"
-  array[4].insert("Python")
+  array[4].insert(new_element)
 end
 
 
