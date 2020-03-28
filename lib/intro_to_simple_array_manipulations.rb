@@ -31,7 +31,7 @@ end
 
 def using_concat(array)
 
-array = (my_favorite_things + more_favs)
+array = (@my_favorite_things + more_favs)
 end
 
 
